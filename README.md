@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laura-brettell
-- 👀 I’m interested in insects and their associated microbes (bacteria and viruses), and how they interact  
-- 🌱 I’m currently learning microbial genomics and (host) transcriptomics
+- 👀 I’m interested in invertebrates and their associated microbes (bacteria and viruses), and how they interact  
+- 🌱 I’m currently learning microbial genomics, next i want to look at spatial RNAseq! 
 - 💞️ I’m looking to collaborate on cool projects to understand ecology and evolution of these microbes and their hosts
 - 📫 How to reach me ... laura.brettell1@salford.ac.uk
 
